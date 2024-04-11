@@ -8,8 +8,5 @@
   ![Github repo top lang](https://img.shields.io/github/languages/top/chrisjameschamp/mvd?style=flat-square)
   ![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
   ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/mvd?style=flat-square)
-  ![GitHub downloads](https://img.shields.io/github/downloads/chrisjameschamp/mvd/total?style=flat-square)
-  ![GitHub release](https://img.shields.io/github/v/release/chrisjameschamp/mvd?style=flat-square&display_name=tag)
-  
 
 </div>
