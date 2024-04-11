@@ -7,7 +7,7 @@ from util import colargulog, constants
 
 logger = logging.getLogger(__name__)
 
-DEBUG = True
+DEBUG = False
 
 console_handler = logging.StreamHandler(stream=sys.stdout)
 colored_formatter = colargulog.ColorizedArgsFormatter(constants.TERMINAL_FORMAT, constants.TERMINAL_DATE_FMT)
