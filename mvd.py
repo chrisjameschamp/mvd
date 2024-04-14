@@ -112,7 +112,6 @@ if __name__ == '__main__':
                         downloaded_video = downloader.download_video(video, add_code=True)
                 else:
                     downloaded_video = downloader.download_video(video)
-                sys.exit()
                 if downloaded_video:
                     st = subtitle.create_subtitle_file(downloaded_video[0], f'{", ".join(track_artists)}', title, year, downloaded_video[1])
                     if st:
