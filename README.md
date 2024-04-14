@@ -11,6 +11,7 @@
   ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/mvd?style=flat-square)
 
 </div>
+
 ## Index
 
 * [Music Video Downloader](#mvd)
